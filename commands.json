@@ -1,0 +1,15 @@
+{
+    "$schema": "https://raw.githubusercontent.com/Romejanic/slasher/master/schema.json",
+
+    "help": {
+        "description": "Lists commands and other useful information"
+    },
+
+    "info": {
+        "description": "Statistics and information about the bot"
+    },
+
+    "editor": {
+        "description": "Opens an interactive editor for running code"
+    }
+}

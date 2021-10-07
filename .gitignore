@@ -105,3 +105,6 @@ dist
 
 # Built Javascript files
 build/
+
+# Bot Authorisation File
+/auth.json
