@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "resolveJsonModule": true,
+        "module": "commonjs",
+        "target": "ES2015",
+        "outDir": "build",
+        "rootDir": "src"
+    },
+    "exclude": [
+        "build",
+        "build/**/*",
+        "*.d.ts"
+    ]
+}
